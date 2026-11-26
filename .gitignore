@@ -1,0 +1,9 @@
+# Visual Studio / .NET Framework
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+*.cache
+packages/
